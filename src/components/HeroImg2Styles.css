@@ -1,3 +1,10 @@
+/* 
+  File Name: HeroImg2Styles.css
+  Student's Name: Your Name
+  Student ID: 123456
+  Date: January 28, 2024
+*/
+
 .hero-img{
     width: 100%;
     background-color: rgba(0,0,0,0.5);
@@ -16,7 +23,7 @@
 
 .hero-img::before{
     content: "";
-    background: url("https://images.unsplash.com/photo-1586281380117-5a60ae2050cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background: url("https://v.etsystatic.com/video/upload/q_auto/Preview_Vtuber_Background_Animated_Cosy_Lofi_Cafe_byMellowLanes_bxhkob.jpg");
     background-size: cover;
     background-position: center top;
     height: 100%;

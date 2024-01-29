@@ -1,3 +1,10 @@
+/* 
+  File Name: App.js
+  Student's Name: Yash Srivastava
+  Student ID: 301382697
+  Date: January 28, 2024
+*/
+
 import React from "react"
 import "./index.css"
 import Home from "./routes/Home";

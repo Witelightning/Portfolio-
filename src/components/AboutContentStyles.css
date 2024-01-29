@@ -1,0 +1,28 @@
+/* 
+  File Name: AboutContentStyles.css
+  Student's Name: Your Name
+  Student ID: 123456
+  Date: January 28, 2024
+*/
+
+.about{
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100;
+}
+.about.para{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+}
+
+
+.about.para p{
+margin: 1.2rem 0;
+
+}

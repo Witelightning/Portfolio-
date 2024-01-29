@@ -1,3 +1,10 @@
+/* 
+  File Name: HeroImg.js
+  Student's Name: Yash Srivastava
+  Student ID: 301382697
+  Date: January 28, 2024
+*/
+
 import "./HeroImgStyles.css";
 import React from "react";
 import IntroImg from "../assests/front image.jpg"
@@ -14,12 +21,9 @@ const HeroImg = () => {
             <div className="content">
                 <p>HI, I am Yash Srivastava</p>
                 <h1>React Developer</h1>
-                <div>
-                    <Link to="/project"
-                    className="btn">PROJECTS</Link>
-                    <Link to="/contact"
-                    className="btn-light">CONTACT</Link>
-                </div>
+                <divv>
+                    <Link to="/Services" className="btn">Services</Link>
+                </divv>
             </div>
         </div>
          );

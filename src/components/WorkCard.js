@@ -1,3 +1,11 @@
+/* 
+  File Name: WorkCard.js
+  Student's Name: Yash Srivastava
+  Student ID: 301382697
+  Date: January 28, 2024
+*/
+
+
 import "./WorkCardStyles.css";
 import ecommerce from "../assests/ecommerce.jpg"
 import otherimage from "../assests/otherimage.jpg"
@@ -9,7 +17,7 @@ import { NavLink } from "react-router-dom";
 const WorkCard = () => {
   return (
     <div className="work-container">
-    <h1 className="project-heading">Projects</h1>
+    <h1 className="project-heading"></h1>
     <div className="project-container">
         <div className="project-card">
             <img src={ecommerce} alt="image"/>

@@ -1,3 +1,9 @@
+/* 
+  File Name: index.js
+  Student's Name: Yash Srivastava
+  Student ID: 301382697
+  Date: January 28, 2024
+*/
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
